@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/pTErjDR.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px; margin-bottom: 20px;" />
+  <img src="https://wallpaperaccess.com/full/4910984.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px; margin-bottom: 20px;" />
 </div>
 
 <h3 align="center">
